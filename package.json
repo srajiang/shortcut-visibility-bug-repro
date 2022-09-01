@@ -23,7 +23,7 @@
   },
   "dependencies": {
     "@slack/bolt": "slackapi/bolt-js#future",
-    "dotenv": "~16.0.0"
+    "dotenv": "~16.0.2"
   },
   "devDependencies": {
     "eslint": "~8.11.0",
